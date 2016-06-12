@@ -3,12 +3,12 @@
                     xmlns:system="clr-namespace:System;assembly=mscorlib">
 
     <system:String x:Key="wox_plugin_everything_is_not_running">Everything läuft nicht</system:String>
-    <system:String x:Key="wox_plugin_everything_query_error">Everything Plugin hat einen Fehler (drücke Enter zum kopieren der Fehlernachricht)</system:String>
+    <system:String x:Key="wox_plugin_everything_query_error">Everything Plugin hat einen Fehler (drücke Enter zum Kopieren der Fehlernachricht)</system:String>
     <system:String x:Key="wox_plugin_everything_copied">kopiert</system:String>
     <system:String x:Key="wox_plugin_everything_canot_start">Kann {0} nicht starten</system:String>
     <system:String x:Key="wox_plugin_everything_open_containing_folder">Öffne enthaltenden Ordner</system:String>
     
     <system:String x:Key="wox_plugin_everything_plugin_name">Everything</system:String>
-    <system:String x:Key="wox_plugin_everything_plugin_description">Suche Dateien mit Everything</system:String>
+    <system:String x:Key="wox_plugin_everything_plugin_description">Suche nach Dateien mit Everything</system:String>
 
 </ResourceDictionary>
